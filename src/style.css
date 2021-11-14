@@ -155,7 +155,7 @@ body {
     width: 30px;
 }
 
-.copyright-section{
+.copyright-section {
     display: inline-block;
     color: #a7a9ad;
     position: relative;
@@ -177,5 +177,21 @@ body {
         margin-right: auto;
     }
 
+    .footWapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        max-width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .copyright-section {
+        margin-left: auto;
+        margin-right: auto;
+
+
+    }
 
 }
